@@ -1,0 +1,2 @@
+# runmigrationauto
+Auto run migration
